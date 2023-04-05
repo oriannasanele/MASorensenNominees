@@ -1,3 +1,5 @@
+git clone https://github.com/username/repository.git
+
 # MASorensenNominees
 Vote for a nominee for them to receive this award. 
 
@@ -9,3 +11,7 @@ Vote for a nominee for them to receive this award.
     <li><a href="https://wildcatsports.com/news/2023/1/13/womens-rugby-eight-wildcats-selected-for-d1-elite-all-american-honors.aspx">Sagapolu and Teammates Selected for D1 Elite All-American Honors Overflow</a></li>
   </ul>
 </form>
+
+git add .
+git commit -m "Initial commit"
+git push origin master
